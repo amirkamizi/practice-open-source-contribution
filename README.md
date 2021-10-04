@@ -12,7 +12,7 @@ inside it you can see a name and a note seperated by "|"
 
 `amir kamizi | I love programming`
 
-you should add your name and a note seperated by "|"
+you should add your name and a note seperated by "|" in a new line
 
 both name and note are required.
 
