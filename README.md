@@ -4,6 +4,7 @@
 When I was starting to contribute to the open source projects I was so scared that I would mess something up and no one would ever let me work with them and because of this fear I didn’t start contributing to open source for a couple of years.
 Now in order to make sure you won’t have the same fear, I have created a repository for you to practice the process of contribution.
 read the guidelines. make your contribution.
+learn how to contribute -> https://youtu.be/NdAaCcLrSmM
 
 
 ## guidelines
